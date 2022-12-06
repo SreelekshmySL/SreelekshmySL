@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreelekshmySL
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as Software Engineer @ Travancore Analytics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  slsreelekshmy@gmail.com
 
